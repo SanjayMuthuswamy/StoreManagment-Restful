@@ -10,7 +10,8 @@ Ensure you have the following software installed:
 
 ## Clone the Repository
 ```sh
-git clone https://github.com/SanjayMuthuswamy/Taskmanager.git
+git clone https://github.com/SanjayMuthuswamy/StoreManagment-Restful
+ 
 cd Taskmanager
 ```
 
